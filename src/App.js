@@ -5,7 +5,7 @@ import './App.css';
 
 const HatsPage = () =>(
   <div>
-    <h1>HATS PAGE</h1>
+    <h1>HATS PAGE1</h1>
   </div>
 )
 
